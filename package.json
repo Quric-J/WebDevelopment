@@ -7,7 +7,8 @@
     "minimist": "1.2.5"
   },
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.5.4",
+    "minimist": "1.2.5"
   },
   "scripts": {
     "start": "npm run lite",
