@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "\"This is the Git and Node basic learning project\"",
   "main": "index.html",
-  "dependencies": {},
+  "dependencies": {
+    "minimist": "1.2.5"
+  },
   "devDependencies": {
     "lite-server": "^2.5.4"
   },
